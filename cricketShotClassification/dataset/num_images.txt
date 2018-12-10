@@ -1,0 +1,7 @@
+	train		validation
+defense    87 			40
+drive 	  347		       110
+pull	  116		        60
+sweep	  101			52
+
+total 	  660		       251

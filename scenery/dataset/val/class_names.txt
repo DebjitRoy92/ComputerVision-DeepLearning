@@ -1,0 +1,7 @@
+0: city
+1: ocean
+2: canyon
+3: desert
+4: mountain
+5: river
+6: waterfall
